@@ -1,0 +1,15 @@
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.sourcelink.json
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.exe
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.deps.json
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.runtimeconfig.json
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.dll
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.pdb
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.dll
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\refint\Laboratorio2.dll
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.pdb
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.genruntimeconfig.cache
+C:\Users\Kenneth Carter\Documents\ds4\Laboratorio2\Laboratorio2\obj\Debug\net8.0\ref\Laboratorio2.dll
