@@ -1,0 +1,15 @@
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\bin\Debug\net8.0\Laboratorio45.exe
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\bin\Debug\net8.0\Laboratorio45.deps.json
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\bin\Debug\net8.0\Laboratorio45.runtimeconfig.json
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\bin\Debug\net8.0\Laboratorio45.dll
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\bin\Debug\net8.0\Laboratorio45.pdb
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.AssemblyInfoInputs.cache
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.AssemblyInfo.cs
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.sourcelink.json
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.dll
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\refint\Laboratorio45.dll
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.pdb
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\Laboratorio45.genruntimeconfig.cache
+C:\Users\Kenneth Carter\source\repos\ds4\Laboratorio4\Laboratorio45\obj\Debug\net8.0\ref\Laboratorio45.dll
