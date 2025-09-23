@@ -1,0 +1,15 @@
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.exe
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.deps.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.runtimeconfig.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.pdb
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.AssemblyInfoInputs.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.AssemblyInfo.cs
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.csproj.CoreCompileInputs.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.sourcelink.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\refint\Laboratorio7.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.pdb
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.genruntimeconfig.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\ref\Laboratorio7.dll
