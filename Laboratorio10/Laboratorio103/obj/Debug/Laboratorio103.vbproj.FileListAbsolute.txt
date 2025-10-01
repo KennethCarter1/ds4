@@ -1,0 +1,11 @@
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.vbproj.AssemblyReference.cache
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.Resources.resources
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.vbproj.GenerateResource.cache
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.vbproj.CoreCompileInputs.cache
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\bin\Debug\Laboratorio103.exe.config
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\bin\Debug\Laboratorio103.exe
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\bin\Debug\Laboratorio103.pdb
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\bin\Debug\Laboratorio103.xml
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.exe
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.xml
+C:\Users\luian\OneDrive\Escritorio\Laboratorio10\Laboratorio103\obj\Debug\Laboratorio103.pdb
