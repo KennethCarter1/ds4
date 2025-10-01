@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\bin\Debug\net8.0\Laboratorio95.exe
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\bin\Debug\net8.0\Laboratorio95.deps.json
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\bin\Debug\net8.0\Laboratorio95.runtimeconfig.json
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\bin\Debug\net8.0\Laboratorio95.dll
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\bin\Debug\net8.0\Laboratorio95.pdb
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.dll
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\refint\Laboratorio95.dll
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.pdb
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\Laboratorio95.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\kenneh\Laboratorio9\Laboratorio95\obj\Debug\net8.0\ref\Laboratorio95.dll
