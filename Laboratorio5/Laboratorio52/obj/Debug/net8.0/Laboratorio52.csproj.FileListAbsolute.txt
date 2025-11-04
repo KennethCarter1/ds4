@@ -1,0 +1,15 @@
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.exe
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.deps.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.runtimeconfig.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.pdb
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.AssemblyInfoInputs.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.AssemblyInfo.cs
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.csproj.CoreCompileInputs.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.sourcelink.json
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\refint\Laboratorio52.dll
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.pdb
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.genruntimeconfig.cache
+C:\Users\UTP-FISC\tmp\ds4\Laboratorio5\Laboratorio52\obj\Debug\net8.0\ref\Laboratorio52.dll

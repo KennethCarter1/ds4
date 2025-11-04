@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luian\\OneDrive\\Escritorio\\Laboratorio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D28177-3135-4095-B5C6-EECAC80347E9}|Laboratorio104\\Laboratorio104.vbproj|c:\\users\\luian\\onedrive\\escritorio\\laboratorio10\\laboratorio104\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B1D28177-3135-4095-B5C6-EECAC80347E9}|Laboratorio104\\Laboratorio104.vbproj|solutionrelative:laboratorio104\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\luian\\OneDrive\\Escritorio\\Laboratorio10\\Laboratorio104\\Module1.vb",
+              "RelativeDocumentMoniker": "Laboratorio104\\Module1.vb",
+              "ToolTip": "C:\\Users\\luian\\OneDrive\\Escritorio\\Laboratorio10\\Laboratorio104\\Module1.vb",
+              "RelativeToolTip": "Laboratorio104\\Module1.vb",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T23:45:53.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

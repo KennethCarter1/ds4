@@ -1,0 +1,10 @@
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.exe.config
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.exe
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.pdb
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Form1.resources
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Properties.Resources.resources
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.GenerateResource.cache
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.exe
+C:\Users\kenne\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.pdb

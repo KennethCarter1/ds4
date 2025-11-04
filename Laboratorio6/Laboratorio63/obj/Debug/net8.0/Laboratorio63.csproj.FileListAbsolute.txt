@@ -1,0 +1,14 @@
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\bin\Debug\net8.0\Laboratorio63.exe
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\bin\Debug\net8.0\Laboratorio63.deps.json
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\bin\Debug\net8.0\Laboratorio63.runtimeconfig.json
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\bin\Debug\net8.0\Laboratorio63.dll
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\bin\Debug\net8.0\Laboratorio63.pdb
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.AssemblyInfoInputs.cache
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.AssemblyInfo.cs
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.csproj.CoreCompileInputs.cache
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.dll
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\refint\Laboratorio63.dll
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.pdb
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\Laboratorio63.genruntimeconfig.cache
+C:\Users\UTP-FISC\source\repos\Laboratorio6\Laboratorio63\obj\Debug\net8.0\ref\Laboratorio63.dll
