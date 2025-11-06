@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="result"></div>
+
+<script>
+    window.onload = function() {
+        fetch('@Url.Action("GetItems", "Default")')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('result').innerHTML = data;
+            })
+            .catch(error => {
+                document.getElementById('result').innerHTML = 'Error: ' + error;
+            });
+    };
+</script>
