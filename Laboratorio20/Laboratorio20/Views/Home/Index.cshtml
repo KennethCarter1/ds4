@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Tabla de Multiplicar";
+}
+
+<h1>Tabla de Multiplicar</h1>
+
+<form method="post">
+    <label>Ingrese un número: </label>
+    <input type="number" name="numero" required />
+    <button type="submit">Generar Tabla</button>
+</form>
+
+@if (ViewBag.Tabla != null)
+{
+<h2>Tabla del @ViewBag.Numero</h2>
+<table>
+    <tr>
+        <th>Multiplicación</th>
+        <th>Resultado</th>
+    </tr>
+
+    @for (int i = 0; i < 25; i++)
+    {
+        <tr>
+            <td>@ViewBag.Numero x @(i + 1)</td>
+            <td>@ViewBag.Tabla[i]</td>   
+        </tr>
+    }
+</table>
+}

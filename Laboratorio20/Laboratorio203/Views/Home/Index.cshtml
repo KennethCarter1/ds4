@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Gestión de Productos";
+}
+
+<div
+    <h1>
+  GESTIÓN DE PRODUCTOS
+</h1>
+
+@if (ViewBag.MensajeConexion != null)
+{
+    <p><strong>Estado de Conexión:</strong> @ViewBag.MensajeConexion</p>
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div>
+
+        <p>ID del Producto:</p>
+        <input type="number" name="buscarId" value="@ViewBag.Id" placeholder="Ingrese el ID" />
+
+        <p>Nombre del Producto:</p>
+        <input type="text" name="nombre" value="@ViewBag.Nombre" placeholder="Ingrese el nombre" />
+
+        <p>Precio ($):</p>
+        <input type="number" step="0.01" name="precio" value="@ViewBag.Precio" placeholder="0.00" />
+
+        <p>Stock:</p>
+        <input type="number" name="stock" value="@ViewBag.Stock" placeholder="0" />
+
+        <!-- Botones -->
+        <div>
+            <button type="submit" name="accion" value="Buscar">Buscar</button>
+            <button type="submit" name="accion" value="Agregar">Agregar</button>
+            <button type="submit" name="accion" value="Modificar">Modificar</button>
+            <button type="submit" name="accion" value="Eliminar">Eliminar</button>
+        </div>
+    </div>
+}
+
+

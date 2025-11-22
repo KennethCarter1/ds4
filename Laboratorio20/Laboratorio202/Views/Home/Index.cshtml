@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Matriz nxn";
+}
+
+<h1>Matriz</h1>
+
+<form method="post">
+    <label>Ingrese un número: </label>
+    <input type="number" name="valor" required />
+    <button type="submit">Generar Matriz</button>
+</form>
+
+@if (ViewBag.Matriz != null)
+{
+  <h2>Matriz @ViewBag.Valor x @ViewBag.Valor</h2>
+
+  <table>
+      @for(int i = 0; i < ViewBag.Valor; i++)
+                {
+                    <tr>
+                        @for (int j = 0; j < ViewBag.Valor; j++)
+                        {
+                            <td>@ViewBag.Matriz[i,j]</td>
+
+                        }
+                    </tr>
+                }
+  </table>
+
+}
