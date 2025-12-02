@@ -177,6 +177,11 @@ namespace Laboratorio16
             t.Text += b;
         }
 
+        protected void t_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         protected void eql_Click(object sender, EventArgs e)
         {
             c = Convert.ToInt32(t.Text);

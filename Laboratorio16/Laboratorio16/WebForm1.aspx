@@ -25,7 +25,7 @@
                 Font-Bold="True" Font-Italic="False" ForeColor="White" Font-Size="25px" Font-Overline="True"></asp:Label>
 
             <asp:TextBox ID="t" runat="server" Style="margin-left:50px; margin-top:24px;"
-                Width="335px" Height="41px"></asp:TextBox>
+                Width="335px" Height="41px" OnTextChanged="t_TextChanged"></asp:TextBox>
 
 
             <asp:Button ID="b1" Text="1" runat="server" Height="37px" Style= "margin-left:0px"
